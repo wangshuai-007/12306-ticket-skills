@@ -1,0 +1,3 @@
+interface:
+  display_name: "12306 购票执行"
+  short_description: "实际操作网页购票与计次票预约，处理异常并核验订单或席位成功状态"
